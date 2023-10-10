@@ -2,11 +2,6 @@ h1 {
 	color: #A32767;
 }
 
-body {
-	color: black;
-	font-family: courier;
-	font-size: 18px;
-}
 input {
 	border: solid;
 	border-color: skyblue;
