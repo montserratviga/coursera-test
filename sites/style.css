@@ -1,3 +1,30 @@
 h1 {
+	color: pink;
 	border: solid;
+	border-radius: 17px;
+}
+
+body {
+	background-color: darkblue;
+	color: white;
+	font-family: courier;
+	font-size: 18px;
+}
+img {
+	border: solid 18px;
+	border-color: grey;
+	border-radius: 20px;
+}
+button {
+	border: solid;
+	border-color: skyblue;
+	border-radius: 20px;
+}
+input {
+	border: solid;
+	border-color: skyblue;
+	border-radius: 20px;
+	font-size: 20px;
+	font-family: courier;
+
 }
