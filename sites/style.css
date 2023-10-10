@@ -1,4 +1,7 @@
 
+h1 {
+	color: grey;
+}
 input {
 	border: solid;
 	border-color: skyblue;
