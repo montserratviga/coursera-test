@@ -1,6 +1,10 @@
 
 h1 {
-	color: grey;
+	color: grey; 
+	text-align: center;
+	background-color: pink;
+	padding: 12px 12px 12px 12px;
+
 }
 input {
 	border: solid;
@@ -9,4 +13,17 @@ input {
 	font-size: 20px;
 	font-family: courier;
 
+}
+img {
+	border-radius: white;
+	margin: 0 100px 0 0;
+	padding: 20px 20px 20px 20px;
+}
+
+button {
+	margin: 12px 12px 12px 12px;
+	padding: 20px 12px 12px 12px;
+	text-align: center;
+	font-family: courier;
+	font-size: 20px;
 }
