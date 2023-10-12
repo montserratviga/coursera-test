@@ -1,0 +1,9 @@
+@font-face {
+	font-family: valen; src: url(Valentine cute.ttf);
+}
+@font-face {
+	font-family: nunito; src: url(nunito.ttf);
+}
+body {
+	font-family: valen;
+}
